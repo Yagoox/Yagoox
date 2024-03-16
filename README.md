@@ -1,5 +1,8 @@
-# Olá, sou Yago! 👋
 
+<h1 align="center">   Olá, sou Yago! 👋 </h1>
+<p align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alumni+Sans&weight=500&size=25&pause=1000&center=true&random=false&width=435&lines=Software+Developer" alt="Typing SVG" /></a>
+</p>
 ## Sobre Mim
 Sou um estudante de Engenharia de Software apaixonado por tecnologia. Estou sempre em busca de novos desafios e oportunidades para crescer e aprender.
 
